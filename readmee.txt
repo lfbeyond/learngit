@@ -5,3 +5,4 @@ Git tracks changes.
 Git tracks changes of files.
 lifeng20170602
 add dev branch
+Creating a new branch is quick & simple.
